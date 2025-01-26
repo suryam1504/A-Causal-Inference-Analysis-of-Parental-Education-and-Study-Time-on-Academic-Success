@@ -1,4 +1,4 @@
-# Exploring-the-Impact-of-Parental-Education-and-Study-Time-on-Students-Academic-Performance
+# Beyond the Books: Exploring the Impact of Parental Education and Study-Time on Students Academic Performance
 
 An inferential analysis on how a student's academic (study-time) and demographic (father's and mother's education level) (individually) factors affect their school performance. 
 
